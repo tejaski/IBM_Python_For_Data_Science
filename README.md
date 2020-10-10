@@ -1,2 +1,2 @@
-### Python for Data Science on cognitiveclass ny IBM
+### Python for Data Science on cognitiveclass by IBM
  
